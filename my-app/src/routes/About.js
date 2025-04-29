@@ -11,7 +11,7 @@ const About = () => {
       <Navbar />
       <HeroImg2
         heading="ABOUT ME"
-        text="I'm a friendly Software Developer, skilled in React and Spring Boot."
+        text="A friendly Software Developer, skilled in React and Spring Boot."
       />
       <AboutContent />
       <Footer />
