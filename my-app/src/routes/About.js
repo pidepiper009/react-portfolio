@@ -8,7 +8,10 @@ const About = () => {
   return (
     <div>
       <Navbar />
-      <HeroImg2 />
+      <HeroImg2
+        heading="ABOUT ME"
+        text="I'm a friendly Software Developer, skilled in React and Spring Boot."
+      />
       <Footer />
     </div>
   );
